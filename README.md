@@ -3,8 +3,7 @@
 Booting your server with your own iPXE script allows cool things like:
  - running diskless bare-metal system like CoreOS, SmartOS, ...
  - recovering with your own Rescue system or bare-metal restore tools (like Acronis and Idera)
- - launching Standard installer like ESXi, [Linux](https://gist.github.com/gmasse/008445b0a3d328cedd6a#linux-vnc-installer), Solaris, ...
-
+ - launching Standard installer like ESXi, [Linux](examples/linux.md), Solaris, ...
 
 How?
 Using directly the RESTful API [EU](https://api.ovh.com/)|[CA](https://ca.api.ovh.com) or the API console [EU](https://api.ovh.com/console/)|[CA](https://ca.api.ovh.com/console/).
