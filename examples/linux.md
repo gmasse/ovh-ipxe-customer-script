@@ -1,5 +1,5 @@
 # iPXE scripts
-These iPXE scripts can be used on OVH Dedicated Server with the [iPXE Customer Script feature](https://gist.github.com/gmasse/4b0c34be3d797cd729d2)
+These iPXE scripts can be used on OVH Dedicated Server with the [iPXE Customer Script feature](../README.md)
 
 #### Linux VNC installer
 ##### Fedora 21
